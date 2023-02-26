@@ -23,9 +23,7 @@ Bootstrap para auxiliar na estilização do projeto.
 
 * Projeto inicial
 
-## 🛠️ Construído com
-
-O projeto foi construido com 
+## 🛠️O projeto foi construído com
 
 * [HTML5](https://www.w3c.br/Cursos/CursoHTML5) - Estutura do projeto.
 * [CSS3](https://www.w3c.br/Cursos/CursoCSS3/) - Styles do projeto.

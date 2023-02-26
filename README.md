@@ -45,7 +45,7 @@ Instagram - [@jonathas_rosa85](https://www.instagram.com/jonathas_rosa85/)
 
 Distribuído sobre a licença. Veja `MIT License` para mais informações.
 
-[https://jonathasrosa.github.io/Art-Gallery/](https://github.com/JonathasRosa)
+[https://github.com/JonathasRosa/Art-Gallery/blob/main/LICENSE](https://github.com/JonathasRosa)
 
 ## 🎁 Expressões de gratidão
 

@@ -2,11 +2,11 @@
  Galeria de arte do João Henrique
 
 ##
-![](assets/img/tela-1.png)
+![](img/tela-1.png)
 ##
-![](assets/img/tela-2.png)
+![](img/tela-2.png)
 ##
-![](assets/img/tela-3.png)
+![](img/tela-3.png)
 
 ## 🚀 Começando
 
